@@ -1,0 +1,5 @@
+# Ingorar archivos
+*.html
+
+#Ignorar carpeta 'output'
+output/
